@@ -86,18 +86,6 @@ public class Main {
 
         System.out.println("Результат: ");
         System.out.println(res1 + "\n" + res2 + "\n" + res3 + "\n" + res4 + "\n" + res5 );
-
-
-
-
-
-
-
-
-
-
-
-
-
+      
         }
     }
